@@ -1,0 +1,81 @@
+Dylan Cotner
+March 30, 2026
+Website Flow Chart
+                        [Home]
+                           |
+   ------------------------------------------------------------------------------
+   |                     |             |                  |              |                 |            |
+[Discover] [Genres] [Artists] [Playlists] [News] [Reviews] [History]
+                                                              |
+                                                   [Community]
+                                                              |
+                                                [Contact/Feedback]
+
+Home leads to all the other pages acting as a hub for these pages. It also shows highlights and new artists as well as latest news.
+
+
+[Discover]
+      |
+------------------------------------
+|                        |                 |
+[Trending] [New Music] [Recommended]
+
+[Genres]
+   |
+---------------------------------------------------
+|             |           |            |           |           |
+[Pop] [Rap] [Rock] [R&B] [EDM] [More]
+
+
+
+[Artist]
+        |
+   [Individual Artist Page]
+        |
+---------------------------------
+|               |                    |
+[Bio] [Top Songs] [Albums]
+
+[Playlists]
+      |
+------------------------------------------
+|                        |                    |
+[By Genre] [By Mood] [User-Created]
+
+
+
+
+[News]
+      |
+-------------------------------------
+|                       |                    |
+[Trends] [New Releases] [Events]
+
+[Reviews]
+     |
+-------------------------------------
+|                                      |
+[Album Reviews]     [Song Reviews]
+
+
+[History]
+       |
+--------------------------------------
+|                       |                |
+[Origins] [Evolution] [Famous Eras]
+
+
+[Community]
+      |
+--------------------------------------
+|                       |                 |
+[Comments] [Ratings] [Discussions]
+
+
+[Contact / Feedback]
+        |
+---------------------------------------
+|                                 |               |
+[Feedback Form] [Survey] [Newsletter Signup]
+ 
+This is a rough flowchart for them showing what the websites will lead to and how they will be connected to each other. Home is the main starting point leading into the other pages. Each of these sections have subpages that give more details and lead to more specific content. This lets people understand and easily identify where to go for what.
